@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android
+*.apk
+*.ap_
+*.aab
+local.properties
+**/captures/
+**/externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+.kotlin/
+
+# Agent session state
+.mimocode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
